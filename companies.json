@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "companies": [
+    {
+      "id": "classy-life",
+      "companyCode": "CLASSY",
+      "displayName": "classy",
+      "apiBaseUrl": "https://aws.enliteu.com",
+      "authBaseUrl": "https://auth.enliteu.com",
+      "isDefault": true,
+      "active": true
+    }
+  ]
+}
