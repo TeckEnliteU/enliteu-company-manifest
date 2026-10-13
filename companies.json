@@ -4,20 +4,18 @@
     {
       "id": "classy-life",
       "companyCode": "CLASSY",
-      "displayName": "classy",
+      "displayName": "Classy Life",
       "apiBaseUrl": "https://aws.enliteu.com",
       "authBaseUrl": "https://auth.enliteu.com",
       "isDefault": true,
       "active": true
-    }
-
+    },
     {
       "id": "enliteu",
       "companyCode": "ENLITEU",
-      "displayName": "enliteu",
+      "displayName": "EnliteU",
       "apiBaseUrl": "https://enliteu-demo-backend-g4f3bsbvbjh5f2hv.eastus-01.azurewebsites.net",
       "authBaseUrl": "https://enliteu-demo-auth-c7dcbvapfjhfg7f3.eastus-01.azurewebsites.net",
-      "isDefault": true,
       "active": true
     }
   ]
